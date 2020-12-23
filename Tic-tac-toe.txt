@@ -1,4 +1,6 @@
-; samehulhaq  
+---------------------------------------------; samehulhaq   
+---------------------------------------------------Subscribe my youtube channel 
+-------------------------------------------------------https://youtu.be/wIBafg-OAao
 ; 8086 Assembly, emu8086
 
 data segment       
